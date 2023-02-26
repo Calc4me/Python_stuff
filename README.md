@@ -1,2 +1,3 @@
 # Python_stuff
-Python projects
+Python projects <br>
+This is a repository for python projects and widgets.
